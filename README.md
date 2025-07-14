@@ -1,5 +1,2 @@
-<h1 align="center">Weather Prediction ML</h1>
-
-This project is for showcase the weather prediction ML to be integrated with web application later, project are to be use later in competition. All users are free to use as reference or entirely to make prediction model.
-
-Dataset are from National Oceanic and Atmospheric Administration with weather station located in Lubbock International Airport, Texas.
+# Weather Prediction ML
+A machine learning project using a ridge regression model on weather prediction, trained with an open-source dataset and built with Python libraries. The weather prediction accuracy using Mean Absolute Error (MAE) to evaluate the prediction performance.
